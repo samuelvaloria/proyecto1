@@ -1,0 +1,11 @@
+Esta es la historia de Samuel Valoría.
+
+Samuel Valoría tiene 21 años y es de Galicia, más concretamente 
+de O Valadouro en la provincia de Lugo.
+
+Está aprendiendo a usar Git y GitHub a través de un curso de Platzi.
+
+En cámara parece alto, y en persona aún más.
+
+Hoy hablaremos de su vida y obra.
+
